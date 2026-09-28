@@ -3,7 +3,7 @@ package stream;
 import java.util.ArrayList;
 
 /**
- * StreamAPI
+ * StreamAPI Learn
  */
 public class StreamAPI {
 
