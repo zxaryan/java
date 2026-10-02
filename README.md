@@ -1,7 +1,7 @@
 Java Programming 
 1) Collection Framework :
 
-The Java Collection Framework is a unified architecture (set of interfaces, classes, and algorithms) for storing and manipulating groups of objects. It provides reusable data structures and methods to efficiently handle collections of data.
+The Java Collection Framework is a unified architecture (collection.set of interfaces, classes, and algorithms) for storing and manipulating groups of objects. It provides reusable data structures and methods to efficiently handle collections of data.
 
 
 Hierarchy of Java Collection Framework
