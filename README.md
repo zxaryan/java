@@ -755,6 +755,5 @@ Bootstrap -> Platform (Extension) -> Application class loader, following the par
 **Daily habit:** read one topic, write one runnable example, push it to GitLab, and explain the concept aloud in 60 seconds.
 
 ---
-Author: Aryan Patel | Portfolio: codewithpatel.in
 
 **Author:** Aryan Patel | [LinkedIn](https://linkedin.com/in/codexaryan) | [Portfolio](https://codewithpatel.in)
