@@ -11,7 +11,6 @@ public class HashSetPrac {
 //      HashSet--> The underline data structure of HashSet is Hashtable (Use Map interface internally)
         s.add("A");
         s.add("b");
-        s.add("c");
         System.out.println(s);
     }
 }
