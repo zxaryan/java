@@ -752,8 +752,6 @@ Bootstrap -> Platform (Extension) -> Application class loader, following the par
 | 5 | Generics, JVM, GC | Notes plus a memory-leak demo |
 | 6 | Mixed revision and mock questions | Answer all questions in section 9 aloud |
 
-**Daily habit:** read one topic, write one runnable example, push it to GitLab, and explain the concept aloud in 60 seconds.
-
 ---
 
 **Author:** Aryan Patel | [LinkedIn](https://linkedin.com/in/codexaryan) | [Portfolio](https://codewithpatel.in)

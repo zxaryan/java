@@ -15,6 +15,7 @@ public class StreamAPI {
         al.add(34);
         al.add(22);
         al.add(99);
+        al.stream().sorted().forEach(System.out::println);
         // first way of getting stream instance -->
         // Stream<Integer> s1 = al.stream();
         // s1.forEach(e->System.out.println(e));
